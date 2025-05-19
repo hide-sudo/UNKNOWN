@@ -4,6 +4,12 @@
 
 - Yumeko is a powerful and feature-rich Telegram bot designed to help you manage your groups effortlessly.
 
+  
+  <h2>  ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ​ 🚀</h2> 
+ᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ  ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ 
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/hide-sudo/UNKNOWN"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<h3 align="center">
+
 <p align="center"><a href="https://t.me/Hunt_WH_Updates"><img src="https://envs.sh/s-n.jpeg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
